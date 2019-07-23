@@ -1,0 +1,23 @@
+{
+  "name": "react-blueprint",
+  "version": "1.0.0",
+  "description": "```bash $ npm init -y",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clockworkorange/react-blueprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clockworkorange/react-blueprint/issues"
+  },
+  "homepage": "https://github.com/clockworkorange/react-blueprint#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
